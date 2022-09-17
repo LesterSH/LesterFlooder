@@ -4,6 +4,10 @@ A simple Discord server flooder supporting multiple channels, tokens, etc... als
 # Requirements
 - Python
 
+# Installation
+Click "download" on the right-hand site of the repository and download "lesterflooder.zip", or go to the following link:
+https://github.com/LesterSH/LesterFlooder/releases/download/release/LesterFlooder.zip
+
 # Setup
 Run "LesterFlooder.exe", if you get a missing module error run "setup.bat" and it will automatically install all required modules & launch the program once completed.
 
